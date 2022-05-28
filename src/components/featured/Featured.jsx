@@ -6,12 +6,6 @@ import KeyboardArrowDownIcon from '@mui/icons-material/KeyboardArrowDown'
 import KeyboardArrowUpIcon from '@mui/icons-material/KeyboardArrowUp'
 import { VictoryPie } from 'victory-pie'
 
-// const myData = [
-// 	{ x: 'Group A', y: 900 },
-// 	{ x: 'Group B', y: 400 },
-// 	{ x: 'Group C', y: 200 },
-// 	{ x: 'Group D', y: 100 },
-// ]
 const myData = [{ y: 900 }, { y: 400 }, { y: 200 }, { y: 100 }]
 
 const Featured = () => {
